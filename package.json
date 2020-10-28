@@ -1,0 +1,15 @@
+{
+  "name": "school10",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-plugin-node": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
