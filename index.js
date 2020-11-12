@@ -15,6 +15,7 @@ app.set('view engine', 'hbs')
 app.set('views', 'views')
 
 app.use(todoRoutes)
+app.use(express.static('static'))
 
 async function start() {
     try {
