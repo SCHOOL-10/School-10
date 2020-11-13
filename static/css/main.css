@@ -1,5 +1,6 @@
 body {
     margin:0;
+    height: 100%;
 }
 
 header {
@@ -169,3 +170,48 @@ hr.logo_line {
     margin-top: 15%;
     display: block;
   }
+
+
+.voice_assistant_button {
+  background-color: #FBEEC1;
+  border: none;
+  color: #fff;
+  padding: 20px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20%;
+  float: right;
+}
+
+
+.voice_assistant_button:hover {
+  background-color: #BC986A;
+}
+
+footer {
+  position: fixed;
+  right: 1%; bottom: 1%;
+}
+
+.box_communication {
+  margin-bottom: 3%;
+  margin-right: 3%;
+  display: none;
+  height: 700px;
+  width: 350px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
+  border-bottom-left-radius: 2%;
+}
+
+#hider {
+  position: fixed;
+  bottom: -9999px;
+  right: -9999px;
+}
+
+#hider:checked + .box_communication {
+  display: inline-block;
+}
