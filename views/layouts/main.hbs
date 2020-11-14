@@ -7,7 +7,60 @@
     </div>
     <footer>
         <input type="checkbox" id="hider">
-        <div class="box_communication"></div>
+        <div class="box_communication">
+
+
+            <div class="footer_container">
+                
+                <div id="messages">
+                    <ul id="messagesList">
+                    </ul>
+                </div>
+
+                <button class="btn-mic"><i class="material-icons">keyboard_voice</i></button>
+            
+                <input class="location-text-input" type="text" placeholder="Введите текст..." required="">
+                
+                <button class="btn-send"><i class="material-icons">keyboard_arrow_right</i></button>
+            </div>
+
+            <script type="text/javascript">
+                
+                const btnRecognize = document.querySelector(".btn-mic");
+                const txtMessage = document.querySelector(".location-text-input");
+
+                const recognizer = new Recognizer();
+
+                function showText(text) {
+                    txtMessage.value = recognizer.transcript;
+                    newElement(recognizer.transcript);
+                    var output = httpGet("http://localhost:4567/lis/text=" + txtMessage.value);
+                    newElement(output);
+                    speak(output);
+                }
+
+                function start() {
+                    txtMessage.value = "";
+                    recognizer.start(showText);
+                }
+
+                function stop() {
+                    recognizer.stop();
+                }
+
+                btnRecognize.addEventListener("click", () => {
+                    if (!recognizer.isRecognizing) {
+                        start();
+                    } else {
+                        stop();
+                    }
+                });
+
+                var list = document.querySelector('ul');
+
+            </script>
+
+        </div>
         <label for="hider" class="voice_assistant_button"><i class="fa fa-commenting"></i></label>
     </footer>
 </body>
