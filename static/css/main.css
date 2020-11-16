@@ -63,7 +63,7 @@ hr.logo_line {
 }
 
 .button_nav {
-    background-color: #4fadcf;
+    background-color: #fff;
     border: none;
     padding: 24px 24px;
     cursor: pointer;
@@ -76,6 +76,8 @@ hr.logo_line {
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);
+    box-shadow: 3px 0px #78756f;
+
 }
 
 .nav_home {
