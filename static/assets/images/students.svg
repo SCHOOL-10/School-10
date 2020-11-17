@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="117mm" height="117mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11700 11700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#B4DAC0}
+    .fil0 {fill:#98CDAB}
+    .fil3 {fill:#5CB782}
+    .fil2 {fill:#5AB782}
+    .fil5 {fill:#4DB37B}
+    .fil4 {fill:#30AD69}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2138931449104">
+   <path class="fil0" d="M6861 5676l453 0c1656,0 3012,1355 3012,3012l0 3012 -6476 0 0 -3012c0,-1656 1355,-3012 3012,-3012z"/>
+   <ellipse class="fil0" cx="7088" cy="3583" rx="2308" ry="2093"/>
+   <path class="fil0" d="M7341 5581l358 0c1683,0 3059,1377 3059,3059l0 3059 -6476 0 0 -3059c0,-1683 1377,-3059 3059,-3059z"/>
+   <ellipse class="fil0" cx="7520" cy="3583" rx="2308" ry="2093"/>
+   <polygon class="fil1" points="4667,2284 3209,0 10246,0 11700,2284 "/>
+   <path class="fil0" d="M5130 1363c1620,-579 3132,-570 4778,0l0 1754 -4778 0 0 -1754z"/>
+   <path class="fil2" d="M5564 5676l453 0c1656,0 3012,1355 3012,3012l0 3012 -6476 0 0 -3012c0,-1656 1355,-3012 3012,-3012z"/>
+   <ellipse class="fil2" cx="5791" cy="3583" rx="2308" ry="2093"/>
+   <path class="fil3" d="M5900 5581l358 0c1683,0 3059,1377 3059,3059l0 3059 -6476 0 0 -3059c0,-1683 1377,-3059 3059,-3059z"/>
+   <ellipse class="fil3" cx="6079" cy="3583" rx="2308" ry="2093"/>
+   <polygon class="fil3" points="3226,2284 1768,0 8805,0 10259,2284 "/>
+   <path class="fil3" d="M3689 1363c1620,-579 3132,-570 4778,0l0 1754 -4778 0 0 -1754z"/>
+   <path class="fil4" d="M4085 5676l453 0c1656,0 3012,1355 3012,3012l0 3012 -6476 0 0 -3012c0,-1656 1355,-3012 3012,-3012z"/>
+   <ellipse class="fil4" cx="4311" cy="3583" rx="2308" ry="2093"/>
+   <path class="fil4" d="M4132 5581l358 0c1683,0 3059,1377 3059,3059l0 3059 -6476 0 0 -3059c0,-1683 1377,-3059 3059,-3059z"/>
+   <ellipse class="fil4" cx="4311" cy="3583" rx="2308" ry="2093"/>
+   <polygon class="fil5" points="1458,2284 0,0 7037,0 8491,2284 "/>
+   <path class="fil4" d="M1920 1363c1620,-579 3132,-570 4778,0l0 1754 -4778 0 0 -1754z"/>
+  </g>
+ </g>
+</svg>

@@ -25,7 +25,7 @@ header {
 .nav_block {
     position: absolute;
     height: 100%;
-    width: 5%;
+    width: 5% auto;
     border-right: 3px solid;
     float: left;
     top: 0;
@@ -39,6 +39,7 @@ nav {
 }
 
 .nav_item{
+    position: fixed;
     font-family: 'Nunito', sans-serif;
     margin-left: 15px;
     font-size: 20px;
@@ -67,26 +68,31 @@ hr.logo_line {
     border: none;
     padding: 24px 24px;
     cursor: pointer;
-    position: relative;
     border-radius: 10%;
-    padding-left : 32px;
-    padding-top : 32px;
+    height: 80%;
+    width: 80%;
     background-size: cover;
     background-position: center center;
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);
-    box-shadow: 3px 0px #78756f;
-
 }
 
 .nav_home {
     background-image: url('/assets/images/home.svg');
 }
 
-.button_nav:hover {
-    background-color: #407bbf;
+.nav_students {
+  background-image: url('/assets/images/students.svg');
 }
+
+.nav_parents {
+  background-image: url('/assets/images/parents.svg');
+}
+
+/* .button_nav:hover {
+    background-color: #888888;
+} */
 
 
 [tooltip] {
