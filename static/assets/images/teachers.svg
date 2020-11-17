@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90mm" height="200mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 9000 20000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#30AD69}
+    .fil3 {fill:#74CF9B}
+    .fil0 {fill:#98CDAB}
+    .fil1 {fill:#B4DAC0}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2486656217872">
+   <path class="fil0" d="M5157 9887l294 0c1076,0 1957,880 1957,1957l0 1957 -4207 0 0 -1957c0,-1076 880,-1957 1957,-1957l-1 0z"/>
+   <ellipse class="fil0" cx="5304" cy="8527" rx="1499" ry="1360"/>
+   <path class="fil0" d="M5469 9825l233 0c1093,0 1987,894 1987,1987l0 1987 -4207 0 0 -1987c0,-1093 894,-1987 1987,-1987z"/>
+   <ellipse class="fil0" cx="5585" cy="8527" rx="1499" ry="1360"/>
+   <polygon class="fil1" points="3732,7684 2784,6200 7356,6200 8300,7684 "/>
+   <path class="fil0" d="M4032 7085c1052,-376 2034,-370 3104,0l0 1139 -3104 0 0 -1139z"/>
+   <path class="fil2" d="M3354 9887l294 0c1076,0 1957,880 1957,1957l0 1957 -4207 0 0 -1957c0,-1076 880,-1957 1957,-1957l-1 0z"/>
+   <ellipse class="fil2" cx="3500" cy="8527" rx="1499" ry="1360"/>
+   <path class="fil2" d="M3384 9825l233 0c1093,0 1987,894 1987,1987l0 1987 -4207 0 0 -1987c0,-1093 894,-1987 1987,-1987z"/>
+   <ellipse class="fil2" cx="3500" cy="8527" rx="1499" ry="1360"/>
+   <polygon class="fil3" points="1647,7684 700,6200 5271,6200 6216,7684 "/>
+   <path class="fil2" d="M1947 7085c1052,-376 2034,-370 3104,0l0 1139 -3104 0 0 -1139z"/>
+  </g>
+ </g>
+</svg>

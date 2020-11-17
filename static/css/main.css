@@ -66,11 +66,8 @@ hr.logo_line {
 .button_nav {
     background-color: #fff;
     border: none;
-    padding: 24px 24px;
+    padding: 30px 30px;
     cursor: pointer;
-    border-radius: 10%;
-    height: 80%;
-    width: 80%;
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -88,6 +85,14 @@ hr.logo_line {
 
 .nav_parents {
   background-image: url('/assets/images/parents.svg');
+}
+
+.nav_teachers {
+  background-image: url('/assets/images/teachers.svg');
+}
+
+.nav_media {
+  background-image: url('/assets/images/media.svg');
 }
 
 /* .button_nav:hover {
@@ -175,7 +180,7 @@ hr.logo_line {
   }
 
   main span {
-    margin-top: 15%;
+    margin-top: 35%;
     display: block;
   }
 
